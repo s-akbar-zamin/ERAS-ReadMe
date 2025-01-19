@@ -4,5 +4,4 @@ Welcome to my GitHub! I've uploaded projects here that span my undergraduate and
   
 Audio Localization - Uploaded  
 Model Kayak - Uploaded  
-Second Monitor - To upload  
-CPU cooler - To upload  
+CPU cooler - Uploaded 
